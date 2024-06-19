@@ -1,0 +1,33 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@" : {
+
+    },
+    "Invalid URL." : {
+
+    },
+    "Issue # %lld" : {
+
+    },
+    "Network connection error." : {
+
+    },
+    "No characters were found" : {
+
+    },
+    "No comics were found" : {
+
+    },
+    "No data available." : {
+
+    },
+    "Server error with status code %lld." : {
+
+    },
+    "Unknown error occurred." : {
+
+    }
+  },
+  "version" : "1.0"
+}
