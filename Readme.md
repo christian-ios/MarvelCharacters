@@ -25,7 +25,7 @@ To use the Marvel API, follow these steps:
 
 ## Architecture
 
-The app follows Clean Architecture principles for better separation of concerns and testability:
+The app follows Clean Architecture principles and utilizes the MVVM (Model-View-ViewModel) architecture for better separation of concerns and testability:
 
 - **Presentation Layer:** SwiftUI views and view models.
 - **Domain Layer:** Business logic and use cases.
